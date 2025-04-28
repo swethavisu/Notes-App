@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "37803077301",
+    "firebase_url": "https://resolute-74548-default-rtdb.firebaseio.com",
+    "project_id": "resolute-74548",
+    "storage_bucket": "resolute-74548.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37803077301:android:9831ae248b70fcaf9b58fc",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWbmAAY2kI1u-HB67UrD37HaHxEe_WWsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37803077301:android:02cd9cd133bb93d89b58fc",
+        "android_client_info": {
+          "package_name": "swetha.assignment.taskit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWbmAAY2kI1u-HB67UrD37HaHxEe_WWsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37803077301:android:105607331f3370389b58fc",
+        "android_client_info": {
+          "package_name": "swetha.sample.ayushokya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWbmAAY2kI1u-HB67UrD37HaHxEe_WWsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
